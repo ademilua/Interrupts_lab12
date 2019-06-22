@@ -1,0 +1,2 @@
+# Interrupts_lab12
+ Use SysTick interrupts to create a squarewave at 440Hz.   There is a positive logic switch connected to PA3, PB3, or PE3. There is an output on PA2, PB2, or PE2. The output is     connected to headphones through a 1k resistor.  The volume-limiting resistor can be any value from 680 to 2000 ohms  The tone is initially off, when the switch goes from not touched to touched, the tone toggles on/off.
